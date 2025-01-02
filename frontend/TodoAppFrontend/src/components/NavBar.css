@@ -1,0 +1,16 @@
+/* src/components/Navbar.css */
+.navbar ul {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+  }
+  
+  .navbar li {
+    padding: 10px;
+  }
+  
+  .navbar a {
+    text-decoration: none;
+    color: #000;
+  }
+  
