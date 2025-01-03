@@ -124,7 +124,7 @@ Before running the project, ensure you have the following installed:
    npm start
   ```
 
-**Open your browser and navigate to [http://localhost:3000] to access the application**.
+**Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to access the application**.
 
 
 
