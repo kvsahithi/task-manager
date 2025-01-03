@@ -122,8 +122,9 @@ Before running the project, ensure you have the following installed:
 3.**Start the development server**:
    ```bash
    npm start
+  ```
 
-Open your browser and navigate to [http://localhost:3000] to access the application.
+**Open your browser and navigate to [http://localhost:3000] to access the application**.
 
 
 
